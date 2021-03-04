@@ -4,8 +4,8 @@ public class JungTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("¾È³çÇÏ¼¼¿ä");
-		System.out.println("¹Ý°©½À´Ï´Ù");
+		System.out.println("ì•ˆë…•ížˆ ê³„ì„¸ìš”");
+		System.out.println("ìˆ˜ê³ í•˜ì…¨ìŠµë‹ˆë‹¤");
 	}
 
 }
